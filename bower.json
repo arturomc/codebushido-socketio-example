@@ -1,0 +1,11 @@
+{
+    "name":"codebushido-socketio-example",
+    "version":"1.0.0",
+    "description":"A socket.io example for my web blog @ codebushido.wordpress.com",
+    "dependencies":{
+        "bootstrap":"latest",
+        "angular":"latest",
+        "angular-ui-router":"latest",
+        "font-awesome":"latest"
+    }
+}

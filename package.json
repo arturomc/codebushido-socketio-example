@@ -1,0 +1,12 @@
+{
+    "name":"codebushido-socketio-example",
+    "version":"1.0.0",
+    "description":"A socket.io example for my web blog @ codebushido.wordpress.com",
+    "dependencies":{
+        "express":"latest",
+        "mongoose":"latest",
+        "body-parser":"latest",
+        "socket.io":"latest",
+        "prompt":"latest"
+    }
+}
